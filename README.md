@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnHammes
 - 👀 I’m interested in Power BI, SQL, and Excel.
-- 💞️ I’m searching for data/business analyst positions, especially those that involve dashboard reporting.
+- 💞️ I’m searching for data/business analyst positions.
 - 📫 You can reach me at hammesjohnp@gmail.com
 
 <!---
